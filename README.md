@@ -1,0 +1,2 @@
+# DischargePrediction-Datarobot-MDPI-Healthcare
+The following repository is related to article published in Healthcare MDPI journal : Karboub, K.; Tabaa, M. A Machine Learning Based Discharge Prediction of Cardiovascular Diseases Patients in Intensive Care Units. Healthcare 2022, 10, 966. https://doi.org/10.3390/healthcare10060966 using datarobot platfrom. Using MIMIC III database we have added some custom changes using datarobot models.
